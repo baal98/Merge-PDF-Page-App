@@ -4,7 +4,7 @@ Simple Win Form application for merging and opening PDF files.
 
 ## Table of Contents
 1. [Technology stack](https://github.com/baal98/Merge-PDF-Page-App#technology-stack)
-2. [Screenshots](https://github.com/baal98/Merge-PDF-Page-App#screenshots)
+2. [Screenshot](https://github.com/baal98/Merge-PDF-Page-App#screenshot)
 3. [Application Functionality](https://github.com/baal98/Merge-PDF-Page-App#application-functionality)
 
 ## Technology stack:
