@@ -1,52 +1,29 @@
-# Simple Phone Book
+# Merge PDF Files App
 
-Simple web application for education with add-remove-edit-search user functionality.
-This project is training project for ASP.NET Core with Blazor functionality.
+Simple Win Form application for merging and opening PDF files.
 
 ## Table of Contents
-1. [Technology stack](https://github.com/baal98/PhoneBookSimpleApp#technology-stack)
-2. [Screenshots](https://github.com/baal98/PhoneBookSimpleApp#screenshots)
-3. [Application Functionality](https://github.com/baal98/PhoneBookSimpleApp#application-functionality)
+1. [Technology stack](https://github.com/baal98/Merge-PDF-Page-App#technology-stack)
+2. [Screenshots](https://github.com/baal98/Merge-PDF-Page-App#screenshots)
+3. [Application Functionality](https://github.com/baal98/Merge-PDF-Page-App#application-functionality)
 
 ## Technology stack:
 
-- ASP.NET Core 6.01
+- Windows Form.
 
-- Entity Framework Core 6.01
+- Advanced Installer for msi package.
 
-- Blazor
-
-- JavaScript
-
-- jQuery
-
-- Bootstrap
-
-- MS SQL
-
-## Screenshots:
+## Screenshot:
 
 ### Home Page
-<img width="953" alt="Home page" src="https://github.com/baal98/PhoneBookSimpleApp/blob/master/Sample%20Images/WellcomeScr.jpg">
-
-### Create/Edit Page
-<img width="959" alt="Create/Edit page" src="https://github.com/baal98/PhoneBookSimpleApp/blob/master/Sample%20Images/CreateEditFnc.jpg">
-
-### Dasboard
-<img width="945" alt="Dashboard" src="https://github.com/baal98/PhoneBookSimpleApp/blob/master/Sample%20Images/AllFieldsFnc.jpg">
-
-### Search Page
-<img width="949" alt="Search page" src="https://github.com/baal98/PhoneBookSimpleApp/blob/master/Sample%20Images/SearchFnc.jpg">
-
+<img width="953" alt="Home page" src="https://github.com/baal98/Merge-PDF-Page-App/blob/main/ScreenShot.jpg">
 
 ## Application functionality:
 
-1. Adding a user to a database.
+1. Open existing PDF files to merge.
 
-2. Check validation of the input data.
+2. Save merged PDF file.
 
-3. Editing an existing user.
+3. Open merged PDF file to view.
 
-4. Searching user according to specified criteria and display the result.
-
-5. Show all users in the database.
+4. Some fun.
